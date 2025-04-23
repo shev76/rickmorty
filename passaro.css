@@ -1,0 +1,12 @@
+body{
+    background-color: greenyellow;
+}
+p{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(192, 244, 35);
+}
+img{
+    margin: auto;
+    display: flex;
+}

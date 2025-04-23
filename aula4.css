@@ -1,0 +1,43 @@
+@font-face {
+    font-family: rick;
+    src: url(../../Downloads/get_schwifty.ttf);
+}
+body{
+    background-image: url(../../Downloads/rick-and-morty-background2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    font-family: rick;
+    text-align: center;
+    font-size: 190px;
+    color: green;
+    background-image: url(https://static.wikia.nocookie.net/moral-ranking/images/c/c8/Rick_and_Morty_logo.png/revision/latest?cb=20231226172636);
+    background-position: center;
+    background-size: 800px;
+    background-repeat: no-repeat;
+}
+a{
+   font-size: 50px;
+   color: black;
+   display: block;
+   background-color: rgb(192, 244, 35);
+   border: solid 3px black;
+   width: 500px;
+   text-align: center;
+   text-decoration: none;
+   margin: 30px auto;
+   padding: 20px;
+}
+a:hover{
+    color: aqua;
+    background-image: url(https://i.pinimg.com/originals/f8/46/ff/f846ff732d55b7ac19d34009ab4a3606.gif);
+    border: solid 3px black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    text-align: left;
+    scale: 1.1;
+
+}
